@@ -14,7 +14,7 @@
     * [SQL Server 2019](sqlserver/2019/README.md)
     * [SQL Server 2022](sqlserver/2022/README.md)
 * Oracle
-    * Not available publicly, as there is a redistribution License limitation
+    * Not available publicly, as there is a redistribution license limitation
 
 ## Pre-configured databases
 
